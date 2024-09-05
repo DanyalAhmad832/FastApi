@@ -1,0 +1,4 @@
+fast_venv
+.idea
+__pycache--/
+__pycache__/books.cpython-38.pyc
